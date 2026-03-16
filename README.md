@@ -24,9 +24,6 @@ Once the dependencies are installed, you can run the analysis with a single comm
 python analysis.py
 
 ## 📊 Results & Visualization
-
-Below is the generated trend analysis showing historical NASA GISTEMP data alongside our machine learning projections through 2055.
-
-![Climate Trend Analysis](nasa_climate_report.png)
+![Global Temperature Trend](nasa_climate_report.png)
 
 *The blue dots represent annual temperature anomalies, while the dashed orange line indicates the linear regression forecast.*
