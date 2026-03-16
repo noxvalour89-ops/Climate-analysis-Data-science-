@@ -12,3 +12,13 @@ This project uses **NASA GISTEMP v4** data to analyze global temperature anomali
 1. Clone the repo:
    ```bash
    git clone [https://github.com/noxvalour89-ops/climate-analysis-data-sciencegit](https://github.com/noxvalour89-ops/climate-analysis-dta-science.git)
+2. Install the depedencies
+   ```bash
+   pip install -r requirements.txt
+
+   ## 🚀 Usage
+
+Once the dependencies are installed, you can run the analysis with a single command:
+
+```bash
+python analysis.py
